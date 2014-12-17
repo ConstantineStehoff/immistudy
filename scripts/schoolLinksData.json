@@ -1,0 +1,269 @@
+{
+	"canada": {
+	 	"universities": {
+	 		"texts": [
+	 			"University of Toronto", 
+	 			"Ryerson University", 
+	 			"York University"
+	 		],
+	 		"places": [
+	 			"Торонто, Провинция Онтарио",
+	 			"Торонто, Провинция Онтарио",
+	 			"Торонто, Провинция Онтарио"
+	 		],
+	 		"urls": [
+	 			"/info/school_programs/canada/universities/university_of_toronto",
+	 			"/info/school_programs/canada/universities/ryerson_university",
+	 			"/info/school_programs/canada/universities/york_university"
+	 		],
+	 		"img_urls": [
+	 			"http://placehold.it/50x50",
+	 			"http://placehold.it/50x50",
+	 			"http://placehold.it/50x50"
+	 		],
+	 		"img_alts": [
+	 			"University of Toronto",
+	 			"Ryerson University",
+	 			"York University"
+	 		]
+	 		
+	 	},
+		"colleges": {
+			"texts": [
+				"Centennial college",
+				"Vancouver Institute of Professional Management"
+			],
+			"places": [
+				"Торонто, Провинция Онтарио",
+				"Ванкувер, провинция Британская Колумбия"
+			],
+			"urls": [
+				"/info/school_programs/canada/colleges/centennial_college",
+				"/info/school_programs/canada/colleges/vancouver_institute_of_professional_management"
+			],
+			"img_urls": [
+				"",
+				""
+			],
+			"img_alts": [
+				"",
+				""
+			]	
+		},
+		"language_schools": {
+			"texts": [
+				"Школы изучения английского языка SEC and UCCBT"
+			],
+			"places": [
+				"Ванкувер, провинция Британская Колумбия и Торонто, провинция Онтарио"
+			],
+			"urls": [
+				"/info/school_programs/canada/language_schools/sec_and_uccbt"
+			],
+			"img_urls": [
+				""
+			],
+			"img_alts": [
+				""
+			]	
+		}
+	},
+	"nz": {
+		"universities": {
+			"texts": [
+				"Auckland University of Technology", 
+				"Lincoln University", 
+				"Christchurch Polytechnic Institute of Technology"
+			],
+			"places": [
+				"Окленд, Северный остров",
+				"Крайсчорч, Южный остров",
+				"Крайсчерч, Южный остров"
+			],
+			"urls": [
+				"/info/school_programs/newzealand/universities/auckland_university_of_technology",
+				"/info/school_programs/newzealand/universities/lincoln_university",
+				"/info/school_programs/newzealand/universities/christchurch_polytechnic_institute_institute_of_technology"
+			],
+			"img_urls": [
+				"",
+				"",
+				""
+			],
+			"img_alts": [
+				"",
+				"",
+				""
+			]
+		},
+		"colleges": {
+			"texts": [
+				"Pacific International Hotel Management School",
+				"St. George Institute of Learning"
+			],
+			"places": [
+				"Нью Плимут, Северный остров",
+				"Окленд, Северный остров"
+			],
+			"urls": [
+				"/info/school_programs/newzealand/colleges/pacific_international_hotel_management_school",
+				"/info/school_programs/newzealand/colleges/st_george_institute_of_learning"
+			],
+			"img_urls": [
+				""
+			],
+			"img_alts": [
+				""
+			]	
+		},
+		"schools": {
+			"texts": [
+				"Corelli International Academic School of the Arts"
+			],
+			"places": [
+				"Окленд, Северный остров"
+			],
+			"urls": [
+				"/info/school_programs/newzealand/schools/corelli_international_academic_school_of_the_arts"
+			],
+			"img_urls": [
+				""
+			],
+			"img_alts": [
+				""
+			]	
+		}
+	},
+	"aus": {
+		"universities": {
+			"texts": [
+				"University of Technology Sydney", 
+				"University of New South Wales"
+			],
+			"places": [
+				"Сидней, Новый Южный Уэльс",
+				"Сидней, Новый Южный Уэльс"
+			],
+			"urls": [
+				"/info/school_programs/australia/universities/university_of_technology_sydney",
+				"/info/school_programs/australia/universities/universtiy_of_new_south_wales"
+			],
+			"img_urls": [
+				"",
+				"",
+				""
+			],
+			"img_alts": [
+				"",
+				"",
+				""
+			]
+		},
+		"colleges": {
+			"texts": [
+				"William Blue Hotel Management School",
+				"St. George & Sutherland Community College",
+				"Kardinia International College"
+			],
+			"places": [
+				"Сидней, Новый Южный Уэльс",
+				"пригород Сиднея, Новый Южный Уэльс",
+				"Джилон, штат Виктория"
+			],
+			"urls": [
+				"/info/school_programs/australia/colleges/william_blue_hotel_management_school",
+				"/info/school_programs/australia/colleges/st_george_sutherland_community_college",
+				"/info/school_programs/australia/colleges/kardinia_international_college"
+			],
+			"img_urls": [
+				""
+			],
+			"img_alts": [
+				""
+			]	
+		}
+	},
+	"usa": {
+		"universities": {
+			"texts": [
+				"University of Washington", 
+				"Western Washington University",
+				"Eastern Washington University",
+				"Embry Riddle Aeronautical University"
+			],
+			"places": [
+				"Сиэтл, штат Вашингтон",
+				"Беллинхем, штат Вашингтон",
+				"Чейни, штат Вашингтон",
+				"Дайтон Бич, штат Флорида и Прескотт, штат Аризона"
+			],
+			"urls": [
+				"/info/school_programs/usa/universities/university_of_washington",
+				"/info/school_programs/usa/universities/western_washington_university",
+				"/info/school_programs/usa/universities/eastern_washington_university",
+				"/info/school_programs/usa/universities/embry_riddle_aeronautical_university"
+			],
+			"img_urls": [
+				"",
+				"",
+				""
+			],
+			"img_alts": [
+				"",
+				"",
+				""
+				]
+		},
+		"colleges": {
+			"texts": [
+				"Колледжи Города Сиэтл (North Seattle Community College, South Seattle Community College, Seattle Central Community College)",
+				"Sierra College"
+			],
+			"places": [
+				"Сиэтл, штат Вашингтон",
+				"Роклин, штат Калифорния"
+			],
+			"urls": [
+				"/info/school_programs/usa/colleges/seattle_community_colleges",
+				"/info/school_programs/usa/colleges/sierra_college"
+			],
+			"img_urls": [
+				"",
+				""
+			],
+			"img_alts": [
+				"",
+				""
+			]	
+		}
+	},
+	"france": {
+		"universities": {
+			"texts": [
+				"Университет Сорбонна (Sorbonne Universite)",
+				"Страсбургский университет (Strasbourg Universite)"
+			],
+			"places": [
+				"Париж, регион Иль-де-Франс",
+				"Страсбург, регион Эльзас"
+			],
+			"urls": [
+				"/info/school_programs/france/universities/sorbonne_universite",
+				"/info/school_programs/france/universities/strasbourg_universite"
+			],
+			"img_urls": [
+				"",
+				""
+			],
+			"img_alts": [
+				"",
+				""
+			]
+		}
+	}
+}	 
+
+
+
+
+	

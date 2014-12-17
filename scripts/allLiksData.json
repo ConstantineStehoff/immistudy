@@ -1,0 +1,61 @@
+{
+	"canada": {
+	 	"links": [
+	 		{"url" : "/info/school_programs/canada/universities/", "text" : "Обучение в Университете", "className" : "school_item", "category_id": "canada_universities"},
+	 		{"url" : "/info/school_programs/canada/colleges/", "text" : "Обучение в Колледже", "className" : "school_item", "category_id": "canada_colleges"},
+	 		{"url" : "/info/school_programs/canada/language_schools/", "text" : "Обучение в Языковой Школе", "className" : "school_item", "category_id": "canada_language_schools"},
+	 		{"url" : "/info/immigration_programs/canada/family", "text" : "Семейная Иммиграция", "className" : "immigration_item", "category_id": "canada_family"},
+	 		{"url" : "/info/immigration_programs/canada/work", "text" : "Иммиграция для Рабочих", "className" : "immigration_item", "category_id": "canada_work"},
+	 		{"url" : "/info/immigration_programs/canada/specialist", "text" : "Иммиграция для Специалистов (PNP)", "className" : "immigration_item", "category_id": "canada_specialist"},
+	 		{"url" : "/info/immigration_programs/canada/federal_skilled_migrant", "text" : "Иммиграция для Специалистов (Federal)", "className" : "immigration_item", "category_id": "canada_federal_skilled_migrant"},
+	 		{"url" : "/info/work_programs/canada/", "text" : "Работа Няней в Семье", "className" : "work_item"}
+	 	]	
+	},
+	"nz": {
+	 	"links": [
+	 		{"url" : "/info/school_programs/newzealand/universities/", "text" : "Обучение в Университете", "className" : "school_item", "category_id": "newzealand_universities"},
+	 		{"url" : "/info/school_programs/newzealand/colleges/", "text" : "Обучение в Колледже", "className" : "school_item", "category_id": "newzealand_colleges"},
+	 		{"url" : "/info/school_programs/newzealand/schools/", "text" : "Обучение в Школе", "className" : "school_item", "category_id": "newzealand_schools"},
+	 		{"url" : "/info/immigration_programs/newzealand/specialist", "text" : "Иммиграция для Специалистов", "className" : "immigration_item", "category_id" : "newzealand_specialist"},
+	 		{"url" : "/info/immigration_programs/newzealand/business", "text" : "Бизнес Иммиграция", "className" : "immigration_item", "category_id" : "newzealand_business"},
+	 		{"url" : "/info/immigration_programs/newzealand/work", "text" : "Рабочая Виза", "className" : "immigration_item","category_id" : "newzealand_work"},
+	 		{"url" : "/info/immigration_programs/newzealand/family", "text" : "Семейная Иммиграция", "className" : "immigration_item", "category_id" : "newzealand_family"},
+	 		{"url" : "/info/immigration_programs/newzealand/pensioner", "text" : "Инвестор Пенсионер", "className" : "immigration_item", "category_id" : "newzealand_pensioner"},
+	 		{"url" : "/info/work_programs/newzealand/", "text" : "Программа Серебряный Папоротник", "className" : "work_item"}
+	 	]	
+	},
+	"aus": {
+	 	"links": [
+	 		{"url" : "/info/school_programs/australia/universities/", "text" : "Обучение в Университете", "className" : "school_item", "category_id": "australia_universities"},
+	 		{"url" : "/info/school_programs/australia/colleges/", "text" : "Обучение в Колледже", "className" : "school_item", "category_id": "australia_colleges"},
+	 		{"url" : "/info/immigration_programs/australia/specialist", "text" : "Иммиграция для Специалистов", "className" : "immigration_item", "category_id" : "australia_specialist"},
+	 		{"url" : "/info/immigration_programs/australia/business", "text" : "Бизнес Иммиграция", "className" : "immigration_item", "category_id" : "australia_business"},
+	 		{"url" : "/info/immigration_programs/australia/work", "text" : "Рабочая Виза", "className" : "immigration_item", "category_id" : "australia_work"},
+	 		{"url" : "/info/immigration_programs/australia/family", "text" : "Семейная Иммиграция", "className" : "immigration_item","category_id" : "australia_family"}
+	 	]	
+	},		 		
+	"usa": {
+	 	"links": [
+	 		{"url" : "/info/school_programs/usa/universities/", "text" : "Обучение в Университете", "className" : "school_item", "category_id": "usa_universities"},
+	 		{"url" : "/info/school_programs/usa/colleges/", "text" : "Обучение в Колледже", "className" : "school_item", "category_id": "usa_colleges"},
+	 		{"url" : "/info/immigration_programs/usa/business", "text" : "Бизнес Иммиграция", "className" : "immigration_item", "category_id" : "usa_business"},
+	 		{"url" : "/info/immigration_programs/usa/family", "text" : "Семейная Иммиграция", "className" : "immigration_item", "category_id" : "usa_family"},
+	 		{"url" : "/info/immigration_programs/usa/work", "text" : "Рабочая Виза", "className" : "immigration_item", "category_id" : "usa_work"},
+	 		{"url" : "/info/immigration_programs/usa/lottery", "text" : "Лотерея грин карт", "className" : "immigration_item", "category_id" : "usa_lottery"},
+	 		{"url" : "/info/work_programs/usa", "text" : "Работа на Круизных Лайнерах", "className" : "work_item"}
+	 	]	
+	},
+	"france": {
+	 	"links": [
+	 		{"url" : "/info/school_programs/france/universities/", "text" : "Обучение в Университете", "className" : "school_item",
+	 		"category_id" : "france_universities"},
+	 		{"url" : "/info/immigration_programs/france/marrige", "text" : "Иммиграция через замужество", "className" : "immigration_item", "category_id" : "france_marrige"},
+	 		{"url" : "/info/work_programs/france", "text" : "Программа Au Pair", "className" : "work_item"}
+	 	]	
+	},
+	"emirates": {
+		"links": [
+	 		{"url" : "/info/work_programs/emirates", "text" : "Работа в Гостиницах", "className" : "work_item"}
+	 	]	
+	}		
+}
